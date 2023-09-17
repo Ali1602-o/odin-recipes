@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 *, ::before, ::after {
-    box-sizing: border-box;
+    box-sizing: border-box;  /* to make the content adapt it's width and height so in total we have the desired height and width of our element watch this :  https://www.youtube.com/watch?v=rIO5326FgPE */
     margin: 0;
     padding: 0;
 }
